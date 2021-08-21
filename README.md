@@ -1,6 +1,6 @@
 # 👋Hi, I'm Jinseo James Cha
 
-Hi, I'm Clark! I am a Back-end Developer.<br> I love learing new technology and skills of Web, and Server side.<br>
+I am a Back-end Developer.<br> I love learing new technology and skills of Web, and Server side.<br>
 I leaving in Korea now.<br>
 [Click here to see Jinseo's Resume In Notion](https://jinseo-james-cha.notion.site/534a8633aac747f380f06e59eddd41a2)
 
