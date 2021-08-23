@@ -9,7 +9,8 @@ Speaking English Fluently<br>
 Sharing anything I learned with friends<br>
 
 ## 💪 Goals of 2021
-Looking for a company where consists of great teammates and lots of opportunities to learn trend skills.<br>
+Learning and focusing on Nest.js study for Back-end development<br>
+Also, planning to make qualified and readable Nest.js references written in Korean.
 
 ## 📚  That I know and focus on
 ### Backend
