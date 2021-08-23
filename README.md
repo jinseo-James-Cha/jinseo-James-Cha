@@ -34,8 +34,8 @@ Also, planning to make qualified and readable Nest.js references written in Kore
 
 ## 💡 Projects
 - [self project]() - Spring boot로 버전 업 작업중
-- [Team of Maximus](https://github.com/maximusStrong/trip_maximus) - 제주도 여행 플랫폼
-- [Team of SilverTown](https://github.com/109SilverTown/baekgu) - 중장년층을 위한 구인구직 플랫폼
+- [Team of Maximus](https://github.com/jinseo-James-Cha/trip_maximus) - 제주도 여행 플랫폼
+- [Team of SilverTown](https://github.com/jinseo-James-Cha/baekgu) - 중장년층을 위한 구인구직 플랫폼
 
 Last Edited on: 19/08/2021<br>
 <!--
