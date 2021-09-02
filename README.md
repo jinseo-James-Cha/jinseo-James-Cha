@@ -11,6 +11,8 @@ Sharing anything I learned with friends<br>
 Learning and focusing on Nest.js study for Back-end development<br>
 Also, planning to make qualified and readable Nest.js references written in Korean.
 
+[making my tech blog](https://jinseo-copy-and-paste.tistory.com)
+
 ## 📚  That I know and focus on
 ### Backend
 - Spring Boot, Spring MVC, Spring Data JPA, Spring Security
