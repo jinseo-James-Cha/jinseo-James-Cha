@@ -15,13 +15,16 @@ Also, planning to make qualified and readable Nest.js references written in Kore
 
 ## 📚  That I know and focus on
 ### Backend
+- Nest.js, Node.js
+- Jest
+- REST API
+
 - Spring Boot, Spring MVC, Spring Data JPA, Spring Security
 - JUnit5
 - Gradle
 - REST API
 
 ### DevOps
- - Nest.js, Node.js
  - AWS EC2, S3, RDS, Route 53, CodeDeploy
  - MySql, MariaDB, Oracle
  - Travis CI
