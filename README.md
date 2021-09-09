@@ -4,7 +4,7 @@ I am a Back-end Developer.<br> I love learing new technology and skills of Web, 
 And leaving in Korea now.<br>
 
 ## 🤓 My values
-Speaking English Fluently<br>
+Speaking English&한국어 Fluently<br>
 Sharing anything I learned with friends<br>
 
 ## 💪 Goals of 2021
