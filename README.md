@@ -17,7 +17,6 @@ Also, planning to make qualified and readable Nest.js references written in Kore
 ### Backend
 - Nest.js, Node.js
 - Jest
-- REST API
 
 - Spring Boot, Spring MVC, Spring Data JPA, Spring Security
 - JUnit5
