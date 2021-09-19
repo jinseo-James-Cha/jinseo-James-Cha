@@ -16,6 +16,7 @@ Also, planning to make qualified and readable Nest.js references written in Kore
 ## 📚  That I know and focus on
 ### Backend
 - Nest.js, Node.js
+- Typescript, Javascript
 - Jest
 
 - Spring Boot, Spring MVC, Spring Data JPA, Spring Security
