@@ -15,7 +15,8 @@ Also, planning to make qualified and readable Nest.js references written in Kore
 
 ## 📚  That I know and focus on
 ### Backend
-- Nest.js, Node.js
+- [Nest.js](https://jinseo-copy-and-paste.tistory.com/category/Nest.js)
+- Node.js
 - Typescript, Javascript
 - Jest
 
