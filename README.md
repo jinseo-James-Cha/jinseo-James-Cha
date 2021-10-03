@@ -20,7 +20,7 @@ Also, planning to make qualified and readable Nest.js references written in Kore
 - Typescript, Javascript
 - Jest
 
-- Spring Boot, Spring MVC, Spring Data JPA, Spring Security
+- Spring Boot, Spring MVC, Spring Data JPA,
 - JUnit5
 - Gradle
 - REST API
@@ -35,6 +35,7 @@ Also, planning to make qualified and readable Nest.js references written in Kore
 ### Tool
 - Git/Github/Gitlab
 - Slack
+- Visual Studio Code
 - IntelliJ
 - Notion
 
