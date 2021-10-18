@@ -28,6 +28,7 @@ Also, planning to make qualified and readable Nest.js references written in Kore
 ### DevOps
  - AWS EC2, S3, RDS, Route 53, CodeDeploy
  - Docker
+ - Gitlab CI/CD
  - MySql, MariaDB, Oracle
  - Travis CI
  - NGinx
