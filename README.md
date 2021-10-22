@@ -9,7 +9,7 @@ Sharing anything I learned with friends<br>
 
 ## 💪 Goals of 2021
 Learning and focusing on Nest.js study for Back-end development<br>
-Also, planning to make qualified and readable Nest.js references written in Korean.
+Also, planning to make qualified and readable Nest.js references
 
 [Building my tech blog](https://jinseo-copy-and-paste.tistory.com)
 
