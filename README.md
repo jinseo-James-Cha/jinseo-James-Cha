@@ -37,13 +37,12 @@ Also, planning to make qualified and readable Nest.js references
 ### Tool
 - Git/Github/Gitlab
 - Slack
-- Visual Studio Code
-- IntelliJ
+- Visual Studio Code, IntelliJ, Phpstorm
 - Notion
 
 
 
-Last Edited on: 18/10/2021<br>
+Last Edited on: 25/10/2021<br>
 <!--
 **jinseo-James-Cha/jinseo-James-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
