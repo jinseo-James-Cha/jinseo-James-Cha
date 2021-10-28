@@ -6,6 +6,7 @@ And leaving in Korea now.<br>
 ## 🤓 My values
 Speaking English&한국어 Fluently<br>
 Sharing anything I learned with friends<br>
+here is the link [share your idea with my posts](https://jinseo-copy-and-paste.tistory.com)
 
 ## 💪 Goals of 2021
 Learning and focusing on Nest.js study for Back-end development<br>
