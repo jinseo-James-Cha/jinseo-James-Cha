@@ -12,7 +12,7 @@ here is the link [share your idea with my posts](https://jinseo-copy-and-paste.t
 Learning and focusing on Nest.js study for Back-end development<br>
 Also, planning to make qualified and readable Nest.js references
 
-[Building my tech blog](https://jinseo-copy-and-paste.tistory.com)
+⚡[Building my tech blog](https://jinseo-copy-and-paste.tistory.com)⚡
 
 ## 📚  That I know and focus on
 ### Backend
