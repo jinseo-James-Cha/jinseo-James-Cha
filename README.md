@@ -1,7 +1,9 @@
 # 👋Hi, I'm Jinseo James Cha !!!
 
-I am a Back-end Developer.<br> I love learing new technology and skills of Web, and Server side.<br>
+I am a Back-end Developer.<br> I love learing new technologies and skills of Web, and Server side.<br>
 And leaving in Korea now.<br>
+
+Playing tennis is my one of favorite sports since I was 9 years old !
 
 ## 🤓 My values
 Speaking English&한국어 Fluently<br>
@@ -43,7 +45,7 @@ Also, planning to make qualified and readable Nest.js references
 
 
 
-Last Edited on: 11/28/2021<br>
+Last Edited on: 12/12/2021<br>
 <!--
 **jinseo-James-Cha/jinseo-James-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
