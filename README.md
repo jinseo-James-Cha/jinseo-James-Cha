@@ -10,9 +10,11 @@ Speaking English&한국어 Fluently<br>
 Sharing anything I learned with friends<br>
 here is the link [share your idea with my posts](https://jinseo-copy-and-paste.tistory.com)
 
-## 💪 Goals of 2021
+## 💪 Goals of 2022
 Learning and focusing on Nest.js study for Back-end development<br>
-Also, planning to make qualified and readable Nest.js references
+Also, planning to make qualified and readable Nest.js references.
+
+Making a productive hobby which is Reading books! 
 
 ⚡[Building my tech blog](https://jinseo-copy-and-paste.tistory.com)⚡
 
@@ -45,7 +47,7 @@ Also, planning to make qualified and readable Nest.js references
 
 
 
-Last Edited on: 12/12/2021<br>
+Last Edited on: 10/01/2022<br>
 <!--
 **jinseo-James-Cha/jinseo-James-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
