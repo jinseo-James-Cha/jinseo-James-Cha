@@ -24,6 +24,7 @@ Making a productive hobby which is Reading books!
 - Node.js
 - Typescript, Javascript
 - Jest
+- PHP 7.4
 
 - Spring Boot, Spring MVC, Spring Data JPA,
 - JUnit5
@@ -42,7 +43,7 @@ Making a productive hobby which is Reading books!
 ### Tool
 - Git/Github/Gitlab
 - Slack
-- Visual Studio Code, IntelliJ, Phpstorm
+- Visual Studio Code, Phpstorm, IntelliJ,
 - Notion
 
 
