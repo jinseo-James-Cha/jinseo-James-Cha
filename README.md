@@ -24,7 +24,7 @@ Making a productive hobby which is Reading books!
 - Node.js
 - Typescript, Javascript
 - Jest
-- PHP 7.4
+- PHP
 
 - Spring Boot, Spring MVC, Spring Data JPA,
 - JUnit5
@@ -38,7 +38,6 @@ Making a productive hobby which is Reading books!
  - MySql, MariaDB, Oracle
  - Travis CI
  - NGinx
- - Linux
 
 ### Tool
 - Git/Github/Gitlab
