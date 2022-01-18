@@ -14,7 +14,7 @@ here is the link [share your idea with my posts](https://jinseo-copy-and-paste.t
 Learning and focusing on Nest.js study for Back-end development<br>
 Also, planning to make qualified and readable Nest.js references.
 
-Making a productive hobby which is Reading books! 
+Making a productive hobby, it is Reading a book regulary ! 
 
 ⚡[Building my tech blog](https://jinseo-copy-and-paste.tistory.com)⚡
 
