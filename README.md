@@ -3,7 +3,7 @@
 I am a Back-end Developer.<br> I love learing new technologies and skills of Web, and Server side.<br>
 And leaving in Korea now.<br>
 
-Playing tennis is my one of favorite sports since I was 9 years old !
+Playing tennis is my one of favorite sports since I was 9 years old !<br>
 Nowadays, I am enjoying Golf with my family and friends :) 
 
 ## 🤓 My values
