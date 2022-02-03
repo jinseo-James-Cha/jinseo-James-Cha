@@ -4,6 +4,7 @@ I am a Back-end Developer.<br> I love learing new technologies and skills of Web
 And leaving in Korea now.<br>
 
 Playing tennis is my one of favorite sports since I was 9 years old !
+Nowadays, I am enjoying Golf with my family and friends :) 
 
 ## 🤓 My values
 Speaking English&한국어 Fluently<br>
