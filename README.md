@@ -1,4 +1,4 @@
-# 👋Hi, I'm Jinseo James Cha !!!
+# 👋Hi, I'm Jinseo James Cha
 
 I am a Back-end Developer.<br> I love learing new technologies and skills of Web, and Server side.<br>
 And leaving in Korea now.<br>
