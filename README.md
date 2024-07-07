@@ -1,6 +1,6 @@
 # 👋Hi, I'm Jinseo James Cha
 
-I am a Back-end Developer.<br> I love learing new technologies and skills of Web, and Server side.<br>
+I am a Software Engineer(Back-end)<br> I love learing new technologies and skills of software, Web, and Server infra.<br>
 And leaving in Korea now.<br>
 
 Playing tennis is my one of favorite sports since I was 9 years old !<br>
@@ -11,12 +11,10 @@ Speaking English&한국어 Fluently<br>
 Sharing anything I learned with friends<br>
 here is the link [share your idea with my posts](https://jinseo-copy-and-paste.tistory.com)
 
-## 💪 Goals of 2022
-Learning and focusing on Nest.js study for Back-end development<br>
-Also, planning to make qualified and readable Nest.js references.
+## 💪 Goals of 2024
+Learning and focusing on DevOps part more to find the best solution as an engineer<br>
 
-Making a productive hobby, it is Reading a book regulary ! 
-
+Record my personal learnings into the below blog(sometimes)
 ⚡[Building my tech blog](https://jinseo-copy-and-paste.tistory.com)⚡
 
 ## 📚  That I know and focus on
@@ -25,6 +23,7 @@ Making a productive hobby, it is Reading a book regulary !
 - Node.js
 - Typescript, Javascript
 - Jest
+- Java
 - PHP
 
 - Spring Boot, Spring MVC, Spring Data JPA,
@@ -48,7 +47,7 @@ Making a productive hobby, it is Reading a book regulary !
 
 
 
-Last Edited on: 10/01/2022<br>
+Last Edited on: 07/07/2024<br>
 <!--
 **jinseo-James-Cha/jinseo-James-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
