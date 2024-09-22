@@ -13,6 +13,8 @@ here is the link [share your idea with my posts](https://jinseo-copy-and-paste.t
 
 ## 💪 Goals of 2024
 Learning and focusing on DevOps part more to find the best solution as an engineer<br>
+Building a web application using spring boot as my side project<br>
+Reading +20 books
 
 Record my personal learnings into the below blog(sometimes)
 ⚡[Building my tech blog](https://jinseo-copy-and-paste.tistory.com)⚡
@@ -47,7 +49,7 @@ Record my personal learnings into the below blog(sometimes)
 
 
 
-Last Edited on: 07/07/2024<br>
+Last Edited on: 22/09/2024<br>
 <!--
 **jinseo-James-Cha/jinseo-James-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
