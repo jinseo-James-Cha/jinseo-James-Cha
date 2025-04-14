@@ -1,23 +1,17 @@
 # 👋Hi, I'm Jinseo James Cha
 
 I am a Software Engineer(Back-end)<br> I love learing new technologies and skills of software, Web, and Server infra.<br>
-And leaving in Korea now.<br>
+And leaving in Dublin, Ireland now.<br>
 
 Playing tennis is my one of favorite sports since I was 9 years old !<br>
-Nowadays, I am enjoying Golf with my family and friends :) 
+Nowadays, I am enjoying boxing with reading books :) 
 
 ## 🤓 My values
 Speaking English&한국어 Fluently<br>
-Sharing anything I learned with friends<br>
-here is the link [share your idea with my posts](https://jinseo-copy-and-paste.tistory.com)
 
-## 💪 Goals of 2024
-Learning and focusing on DevOps part more to find the best solution as an engineer<br>
-Building a web application using spring boot as my side project<br>
-Reading +20 books
-
-Record my personal learnings into the below blog(sometimes)
-⚡[Building my tech blog](https://jinseo-copy-and-paste.tistory.com)⚡
+## 💪 Goals of 2025
+1. Learning and focusing on Python language, data structure and algorithm<br>
+2. Reading +20 books
 
 ## 📚  That I know and focus on
 ### Backend
@@ -49,7 +43,7 @@ Record my personal learnings into the below blog(sometimes)
 
 
 
-Last Edited on: 22/09/2024<br>
+Last Edited on: 14/04/2025<br>
 <!--
 **jinseo-James-Cha/jinseo-James-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
