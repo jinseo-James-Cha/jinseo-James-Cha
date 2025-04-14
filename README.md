@@ -1,6 +1,6 @@
 # 👋Hi, I'm Jinseo James Cha
 
-I am a Software Engineer(Back-end)<br> I love learing new technologies and skills of software, Web, and Server infra.<br>
+I work as a Software Engineer(Back-end)<br> I love learing new technologies and skills of software, Web, and Server infra.<br>
 And leaving in Dublin, Ireland now.<br>
 
 Playing tennis is my one of favorite sports since I was 9 years old !<br>
