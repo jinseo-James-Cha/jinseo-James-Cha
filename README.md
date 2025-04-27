@@ -19,23 +19,14 @@ Speaking English&한국어 Fluently<br>
 - ✨ [Nest.js](https://jinseo-copy-and-paste.tistory.com/category/Nest.js) ✨
 - Node.js
 - Typescript, Javascript
-- Jest
-- Java
 - PHP
-
-- Spring Boot, Spring MVC, Spring Data JPA,
-- JUnit5
-- Gradle
-- REST API
 
 ### DevOps
  - AWS EC2, S3, RDS, Route 53, CodeDeploy
  - ✨ Docker ✨
  - Gitlab CI/CD
- - MySql, MariaDB, Oracle
- - Travis CI
- - NGinx
-
+ - MySql, MariaDB
+ - 
 ### Tool
 - Git/Github/Gitlab
 - Slack
