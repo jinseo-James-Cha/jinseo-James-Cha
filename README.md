@@ -1,6 +1,6 @@
 # 👋Hi, I'm Jinseo James Cha
 
-I work as a Software Engineer(Back-end)<br> I love learing new technologies and skills of software, Web, and Server infra.<br>
+I am a Software Engineer(Back-end)<br> I love learing new technologies and skills of software, Web, and Server infra.<br>
 And leaving in Dublin, Ireland now.<br>
 
 Playing tennis is my one of favorite sports since I was 9 years old !<br>
@@ -15,6 +15,7 @@ Speaking English&한국어 Fluently<br>
 
 ## 📚  That I know and focus on
 ### Backend
+- Python
 - ✨ [Nest.js](https://jinseo-copy-and-paste.tistory.com/category/Nest.js) ✨
 - Node.js
 - Typescript, Javascript
@@ -43,7 +44,7 @@ Speaking English&한국어 Fluently<br>
 
 
 
-Last Edited on: 14/04/2025<br>
+Last Edited on: 26/04/2025<br>
 <!--
 **jinseo-James-Cha/jinseo-James-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
