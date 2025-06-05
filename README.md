@@ -13,6 +13,8 @@ Speaking English&한국어 Fluently<br>
 1. Learning and focusing on Python language, data structure and algorithm<br>
 2. Reading +20 books
 
+
+<!--
 ## 📚  That I know and focus on
 ### Backend
 - Python
@@ -32,7 +34,7 @@ Speaking English&한국어 Fluently<br>
 - Slack
 - Visual Studio Code, Phpstorm, IntelliJ,
 - Notion
-
+-->
 
 
 Last Edited on: 26/04/2025<br>
