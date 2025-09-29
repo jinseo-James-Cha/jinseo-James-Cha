@@ -10,9 +10,9 @@ Nowadays, I am enjoying boxing with reading books :)
 Speaking English&한국어 Fluently<br>
 
 ## 💪 Goals of 2025
-1. Learning and focusing on Python language, data structure and algorithm<br>
+1. Learning and focusing on Python language, deep dive into data structures and algorithms<br>
 2. Reading +20 books
-3. Enter Google as SE !
+3. Experiencing new challenge as SE !
 
 
 <!--
@@ -23,19 +23,18 @@ Speaking English&한국어 Fluently<br>
 - Node.js
 - Typescript, Javascript
 - PHP
+- Java
+- MySql
 
 ### DevOps
- - AWS EC2, S3, RDS, Route 53, CodeDeploy
- - ✨ Docker ✨
- - Gitlab CI/CD
- - MySql, MariaDB
- - 
+ - AWS: ECS, EC2, S3, RDS, Route 53
+ - Docker
+ - CI/CD
+ 
 ### Tool
-- Git/Github/Gitlab
+- Git
 - Slack
-- Visual Studio Code, Phpstorm, IntelliJ,
 - Notion
--->
 
 
 Last Edited on: 26/04/2025<br>
