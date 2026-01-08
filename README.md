@@ -1,7 +1,9 @@
 # 👋Hi, I'm Jinseo James Cha
 
 I am a Software Engineer(Back-end)<br> I love learing new technologies and skills of software, Web, and Server infra.<br>
-And leaving in Dublin, Ireland now.<br>
+**Recently, I've been taking a deep dive into algorithms and data structures lately.
+**
+Living in Dublin has been such a fresh experience; I’m really soaking it all in <br>
 
 Playing tennis is my one of favorite sports since I was 9 years old !<br>
 Nowadays, I am enjoying boxing with reading books :) 
@@ -9,9 +11,9 @@ Nowadays, I am enjoying boxing with reading books :)
 ## 🤓 My values
 Speaking English&한국어 Fluently<br>
 
-## 💪 Goals of 2025
-1. Learning and focusing on Python language, deep dive into data structures and algorithms<br>
-2. Reading +20 books
+## 💪 Goals of 2026
+1. Solve 1000 Leet Code problems and study more on data structures<br>
+2. Reading +12 books
 3. Experiencing new challenge as SE !
 
 
