@@ -5,8 +5,7 @@ I am a Software Engineer(Back-end)
 
 ## 🇮🇪 Life
 Living in Dublin has been such a fresh experience; I’m really soaking it all in 
-<br> Playing tennis is my one of favorite sports since I was 9 years old !
-<br> Nowadays, I am enjoying boxing with reading books :) 
+Exciting to travel neighbor cities in Europe !
 
 ## 🤓 My values
 - Speaking English & Korean Fluently
